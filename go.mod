@@ -1,4 +1,4 @@
-module github.com/moran666666/proxytcp
+module github.com/moran666666/tcp_socks5_proxy
 
 go 1.23.0
 
