@@ -14,7 +14,7 @@ import (
 
 func main() {
 	app := cli.NewApp()
-	app.Name = "proxytcp"
+	app.Name = "tcp_socks5_proxy"
 	app.Version = "1.0.0"
 	app.Usage = "tcp proxy server"
 	app.Flags = []cli.Flag{
